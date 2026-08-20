@@ -1,0 +1,8 @@
+{
+  "name": "Remix HopeFeed",
+  "description": "Redistributes surplus food from restaurants, grocery stores, bakeries, and events to shelters and food banks with real-time pickup tracking and AI matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
